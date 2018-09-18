@@ -1,5 +1,5 @@
 # GoldenEye Setup Editor
-Carnivorous's fork of SubDrag's GoldenEye Setup Editor 3.0.
+Carnivorous's fork of SubDrag's GoldenEye Setup Editor 3.0. Requires MSVC 2008/2013 Redistributable to run.
 
 # Warranty
 This software comes with ABSOLUTELY NO WARRANTY.
