@@ -5,6 +5,8 @@ Carnivorous's fork of SubDrag's GoldenEye Setup Editor 3.0.
 https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/FullEditorInstall.7z
 
 # Requirements
+* DirectX 9.0c Redistributable
+* https://www.microsoft.com/en-us/download/details.aspx?id=8109
 * Microsoft Visual C++ 2008 Redistributable (x86 & x64)
 * https://www.microsoft.com/en-us/download/details.aspx?id=29
 * https://www.microsoft.com/en-us/download/details.aspx?id=15336
