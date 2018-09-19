@@ -23,10 +23,11 @@ For legal reasons the FBX SDK cannot be included. If you want FBX support you wi
 
 # Warranty
 The GoldenEye Setup Editor comes with ABSOLUTELY NO WARRANTY.
-This is free software, and you are welcome to redistribute it under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license. FFmpeg/LAME/Gzip have their own software licenses which you can check below.
+This is free software, and you are welcome to redistribute it under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license. FFmpeg/LAME/Gzip/Xdelta have their own software licenses which you can check below.
 
 # Included software
 * FFmpeg - https://ffmpeg.org/
 * LAME - http://lame.sourceforge.net/
 * Gzip - https://www.gzip.org/
+* Xdelta - https://github.com/jmacd/xdelta
 * ObjToAn8 - https://github.com/jombo23/N64-Tools/tree/master/objtoan8
