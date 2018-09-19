@@ -5,7 +5,7 @@ Carnivorous's fork of SubDrag's GoldenEye Setup Editor 3.0.
 https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/FullEditorInstall.7z
 
 # FBX Support
-For legal reasons the FBX SDK cannot be included. If you want FBX support you will need to install the FBX SDK (linked below) and copy C:\Program Files\Autodesk\FBX\FBX SDK\2014.1\lib\vs2008\x64\libfbxsdk.dll to the editor directory. Then you need to replace GEEdit3\Obj2An8.exe with this version: https://github.com/jombo23/N64-Tools/blob/master/objtoan8/bin/x64/Release/ObjToAn8.exe
+For legal reasons the FBX SDK cannot be included. If you want FBX support you will need to install the FBX SDK (linked below) and copy C:\Program Files\Autodesk\FBX\FBX SDK\2014.1\lib\vs2008\x64\libfbxsdk.dll to the editor directory. Then you need to replace GEEdit3\Obj2An8.exe with this version: https://github.com/jombo23/N64-Tools/raw/master/objtoan8/bin/x64/Release/ObjToAn8.exe
 
 # Requirements
 * DirectX 9.0c Redistributable
