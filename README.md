@@ -3,10 +3,10 @@ Carnivorous's fork of the GoldenEye Setup Editor, originally created by SubDrag.
 
 # Downloads
 | Releases | URL |
-| ------------ | ----------- |
+| ---------------- | ----------- |
 | Latest exe (recommended) | https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditorinstaller.exe |
-| Latest zip | https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditor.7z |
-| Legacy 3.0 exe | https://github.com/carnivoroussociety/GoldEditor/releases/download/legacy/geeditsetupeditorinstaller3.exe |
+| Latest zip (no installer) | https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditor.7z |
+| Legacy 3.0 (XP and lower) | https://github.com/carnivoroussociety/GoldEditor/releases/download/legacy/geeditsetupeditorinstaller3.exe |
 
 # FBX Support
 [For legal reasons](https://forums.autodesk.com/t5/fbx-forum/fbx-sdk-faq/td-p/4165297) the FBX SDK cannot be included with the editor. If you want FBX support you'll need to install the [FBX SDK](http://images.autodesk.com/adsk/files/fbx20141_fbxsdk_vs2008_win.exe) and copy `C:\Program Files\Autodesk\FBX\FBX SDK\2014.1\lib\vs2008\x64\libfbxsdk.dll` to the editor directory. Then replace `GEEdit3\Obj2An8.exe` [with this build from here](https://github.com/jombo23/N64-Tools/raw/master/objtoan8/bin/x64/Release/ObjToAn8.exe)
