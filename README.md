@@ -1,5 +1,5 @@
 # GoldenEye Setup Editor
-Carnivorous's fork of the GoldenEye Setup Editor, originally created by SubDrag. Feedback  can be [posted in the shootersforever thread](http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=4284)
+Carnivorous's fork of the GoldenEye Setup Editor, originally created by SubDrag. Feedback can be [posted in the shootersforever thread](http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=4284)
 
 # Downloads
 | Releases | URL |
@@ -27,6 +27,7 @@ FFmpeg/LAME/Gzip/Xdelta have __their own software licenses__ which you can check
 # Included software
 * FFmpeg - https://ffmpeg.org/
 * LAME - http://lame.sourceforge.net/
+* mpg123 - https://www.mpg123.de/
 * Gzip - https://www.gzip.org/
 * Xdelta - https://github.com/jmacd/xdelta
 * ObjToAn8 - https://github.com/jombo23/N64-Tools/tree/master/objtoan8
