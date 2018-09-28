@@ -2,7 +2,7 @@
 Carnivorous's fork of the GoldenEye Setup Editor, originally created by SubDrag. Feedback can be [posted in the shootersforever thread](http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=4284)
 
 # Downloads
-| Releases | URL |
+| Version | URL |
 | ---------------- | ----------- |
 | Latest exe (recommended) | https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditorinstaller.exe |
 | Latest zip (no installer) | https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditor.7z |
