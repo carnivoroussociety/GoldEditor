@@ -4,8 +4,8 @@ Carnivorous' fork of the GoldenEye Setup Editor, originally created by SubDrag. 
 # Downloads
 | Version | URL |
 | --------------------------- | ----------- |
-| Final 3.0 exe (recommended) | [gesetupeditorinstaller.exe](https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditorinstaller.exe) |
-| Final 3.0 zip (no installer) | [gesetupeditor.7z](https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditor.7z) |
+| Final 3.0 exe (recommended) | [gesetupeditorinstaller3final.exe](https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditorinstaller3final.exe) |
+| Final 3.0 zip (no installer) | [gesetupeditor3final.7z](https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditor3final.7z) |
 | Legacy 3.0 exe (SubDrag's last ver) | [gesetupeditorinstaller3.exe](https://github.com/carnivoroussociety/GoldEditor/releases/download/Legacy/gesetupeditorinstaller3.exe) |
 | Legacy 3.0 exe (last Win98 build) | [gesetupeditorinstaller3win98.exe](https://github.com/carnivoroussociety/GoldEditor/releases/download/Legacy/gesetupeditorinstaller3win98.exe) |
 
