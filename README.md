@@ -24,12 +24,13 @@ Carnivorous' fork of the GoldenEye Setup Editor, originally created by SubDrag. 
 The GoldenEye Setup Editor comes with `ABSOLUTELY NO WARRANTY`.
 This is free software, and you are welcome to redistribute it under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license.
 
-FFmpeg/LAME/mpg123/Gzip/Xdelta are covered under __their own software licenses__ - check below for more details.
+FFmpeg/LAME/mpg123/SoX/Gzip/Xdelta are covered under __their own software licenses__ - check below for more details.
 
 # Included software
 * FFmpeg - https://ffmpeg.org/
 * LAME - http://lame.sourceforge.net/
 * mpg123 - https://www.mpg123.de/
+* SoX - http://sox.sourceforge.net/
 * Gzip - https://www.gzip.org/
 * Xdelta - https://github.com/jmacd/xdelta
 * ObjToAn8 - https://github.com/jombo23/N64-Tools/tree/master/objtoan8
