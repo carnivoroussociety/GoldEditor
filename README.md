@@ -17,7 +17,7 @@ Carnivorous' fork of the GoldenEye Setup Editor, originally created by SubDrag. 
 | Legacy - Installer (last Win98 build) | [gesetupeditorinstaller3win98.exe](https://github.com/carnivoroussociety/GoldEditor/releases/download/Legacy/gesetupeditorinstaller3win98.exe) |
 
 # FBX Support
-[For legal reasons](https://forums.autodesk.com/t5/fbx-forum/fbx-sdk-faq/td-p/4165297) the FBX SDK cannot be included with the editor. If you want FBX support you'll need to install the [FBX SDK](http://images.autodesk.com/adsk/files/fbx20141_fbxsdk_vs2008_win.exe) and copy `C:\Program Files\Autodesk\FBX\FBX SDK\2014.1\lib\vs2008\x64\libfbxsdk.dll` to the editor directory. Then replace `GEEdit3\Obj2An8.exe` [with this build](https://github.com/jombo23/N64-Tools/raw/master/objtoan8/bin/x64/Release/ObjToAn8.exe)
+[For legal reasons](https://forums.autodesk.com/t5/fbx-forum/fbx-sdk-faq/td-p/4165297) the FBX SDK cannot be included with the editor. If you want FBX support you'll need to install the [FBX SDK](http://images.autodesk.com/adsk/files/fbx20141_fbxsdk_vs2008_win.exe) and copy `C:\Program Files\Autodesk\FBX\FBX SDK\2014.1\lib\vs2008\x64\libfbxsdk.dll` to the editor directory. Then replace `GEEdit4\Obj2An8.exe` [with this build](https://github.com/jombo23/N64-Tools/raw/master/objtoan8/bin/x64/Release/ObjToAn8.exe)
 
 # Requirements
 * Microsoft Visual C++ 2008 Redistributable - [x86](https://www.microsoft.com/en-us/download/details.aspx?id=29) & [x64](https://www.microsoft.com/en-us/download/details.aspx?id=15336)
