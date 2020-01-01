@@ -1,5 +1,6 @@
 # GoldenEye Setup Editor
 Carnivorous' fork of the GoldenEye Setup Editor - originally created by SubDrag, Wreck And Zoinkity.
+
 Feedback can be [posted in the shootersforever thread](http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=4284)
 
 ## Downloads
