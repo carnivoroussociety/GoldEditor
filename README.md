@@ -2,19 +2,17 @@
 Carnivorous' fork of the GoldenEye Setup Editor, originally created by SubDrag. Feedback can be [posted in the shootersforever thread](http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=4284)
 
 ## Downloads
-| Version 4 | URL |
+| Version 4 (Recommended) | Download |
 | --------------------------- | ----------- |
-| 4.1 - Installer (recommended) | [gesetupeditorinstaller4.1.exe](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.1/gesetupeditorinstaller4.1.exe) |
-| 4.1 - Zip Archive (recommended) | [gesetupeditor4.1.7z](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.1/gesetupeditor4.1.7z) |
-| 4.0 - Installer (last x86 build) | [gesetupeditorinstaller4.exe](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.0/gesetupeditorinstaller4.exe) |
-| 4.0 - Zip Archive (last x86 build) | [gesetupeditor4.7z](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.0/gesetupeditor4.7z) |
+| 4.2 | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.2/gesetupeditorinstaller4.2.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.2/gesetupeditor4.2.7z) |
+| 4.1 | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.1/gesetupeditorinstaller4.1.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.1/gesetupeditor4.1.7z) |
+| 4.0 - Last x86 Build | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.0/gesetupeditorinstaller4.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.0/gesetupeditor4.7z) |
 
-| Version 3 | URL |
+| Version 3 (Legacy) | Download |
 | --------------------------- | ----------- |
-| Final - Installer | [gesetupeditorinstaller3final.exe](https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditorinstaller3final.exe) |
-| Final - Zip Archive | [gesetupeditor3final.7z](https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditor3final.7z) |
-| Legacy - Installer (SubDrag's last build) | [gesetupeditorinstaller3.exe](https://github.com/carnivoroussociety/GoldEditor/releases/download/Legacy/gesetupeditorinstaller3.exe) |
-| Legacy - Installer (last Win98 build) | [gesetupeditorinstaller3win98.exe](https://github.com/carnivoroussociety/GoldEditor/releases/download/Legacy/gesetupeditorinstaller3win98.exe) |
+| 3.0 - Final | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditorinstaller3final.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/3.0/gesetupeditor3final.7z) |
+| 3.0 - SubDrag's Last Build | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/Legacy/gesetupeditorinstaller3.exe) |
+| 3.0 - Last Win98 build | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/Legacy/gesetupeditorinstaller3win98.exe) |
 
 ## FBX Support
 [For legal reasons](https://forums.autodesk.com/t5/fbx-forum/fbx-sdk-faq/td-p/4165297) the FBX SDK cannot be included with the editor. If you want FBX support you'll need to install the [FBX SDK](https://www.autodesk.com/content/dam/autodesk/www/adn/fbx/2020-0-1/fbx202001_fbxsdk_vs2013_win.exe) and copy `C:\Program Files\Autodesk\FBX\FBX SDK\2020.0.1\lib\vs2013\x86\release\libfbxsdk.dll` to the editor directory. Then replace `GEEdit4\Obj2An8.exe` [with this version](https://github.com/carnivoroussociety/N64-Tools/raw/master/objtoan8/bin/x64/Releasev12/ObjToAn8.exe)
