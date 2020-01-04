@@ -31,7 +31,7 @@ This is free software, and you are welcome to redistribute it under the Creative
 
 FFmpeg/LAME/mpg123/SoX/Gzip/Xdelta are covered under __their own software licenses__ - check below for more details.
 
-## Included software
+## Included Software
 * FFmpeg - https://ffmpeg.org/
 * LAME - http://lame.sourceforge.net/
 * mpg123 - https://www.mpg123.de/
