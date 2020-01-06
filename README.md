@@ -17,7 +17,7 @@ Feedback can be [posted in the shootersforever thread](http://www.shootersforeve
 | 3.0 - Last Win98 build | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/Legacy/gesetupeditorinstaller3win98.exe) |
 
 ## FBX Support
-[For legal reasons](https://forums.autodesk.com/t5/fbx-forum/fbx-sdk-faq/td-p/4165297) the FBX SDK cannot be included with the editor. If you want FBX support you'll need to install the [FBX SDK](https://web.archive.org/web/20200101042427/https://damassets.autodesk.net/content/dam/autodesk/www/adn/fbx/2020-0-1/fbx202001_fbxsdk_vs2013_win.exe) and copy `C:\Program Files\Autodesk\FBX\FBX SDK\2020.0.1\lib\vs2013\x86\release\libfbxsdk.dll` to the editor directory. Then replace `GEEdit4\Obj2An8.exe` [with this version](https://github.com/carnivoroussociety/N64-Tools/raw/master/objtoan8/bin/x64/Releasev12/ObjToAn8.exe)
+[For legal reasons](https://forums.autodesk.com/t5/fbx-forum/fbx-sdk-faq/td-p/4165297) the FBX SDK cannot be included with the editor. If you want FBX support you'll need to install the [FBX SDK](https://web.archive.org/web/20200101042427/https://damassets.autodesk.net/content/dam/autodesk/www/adn/fbx/2020-0-1/fbx202001_fbxsdk_vs2013_win.exe) and copy `C:\Program Files\Autodesk\FBX\FBX SDK\2020.0.1\lib\vs2013\x64\release\libfbxsdk.dll` to the editor directory. Then replace `GEEdit4\Obj2An8.exe` [with this version](https://github.com/carnivoroussociety/N64-Tools/raw/master/objtoan8/bin/x64/Releasev12/ObjToAn8.exe)
 
 ## Requirements
 * Microsoft Visual C++ 2019 Redistributable - [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
