@@ -20,7 +20,7 @@ Feedback can be [posted in the shootersforever thread](http://www.shootersforeve
 [For legal reasons](https://forums.autodesk.com/t5/fbx-forum/fbx-sdk-faq/td-p/4165297) the FBX SDK cannot be included with the editor. If you want FBX support you'll need to install the [FBX SDK](https://web.archive.org/web/20200101042427/https://damassets.autodesk.net/content/dam/autodesk/www/adn/fbx/2020-0-1/fbx202001_fbxsdk_vs2013_win.exe) and copy `C:\Program Files\Autodesk\FBX\FBX SDK\2020.0.1\lib\vs2013\x64\release\libfbxsdk.dll` to the editor directory. Then replace `GEEdit4\Obj2An8.exe` [with this version](https://github.com/carnivoroussociety/N64-Tools/raw/master/objtoan8/bin/x64/Releasev12/ObjToAn8.exe)
 
 ## Requirements
-* Microsoft Visual C++ 2019 Redistributable - [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+* Microsoft Visual C++ 2019 Redistributable - [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 * Microsoft Visual C++ 2013 Redistributable - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=40784)
 * DirectX 9.0c Redistributable June 2010 - [Download](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 * Autodesk FBX SDK 2020.0.1 VS2013 (optional) - [Download](https://web.archive.org/web/20200101042427/https://damassets.autodesk.net/content/dam/autodesk/www/adn/fbx/2020-0-1/fbx202001_fbxsdk_vs2013_win.exe)
