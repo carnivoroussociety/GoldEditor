@@ -36,6 +36,6 @@ FFmpeg/LAME/mpg123/SoX/Gzip/Xdelta are covered under __their own software licens
 * LAME - http://lame.sourceforge.net/
 * mpg123 - https://www.mpg123.de/
 * SoX - http://sox.sourceforge.net/
-* Gzip - https://www.gzip.org/
+* libdeflate - https://github.com/ebiggers/libdeflate
 * Xdelta - https://github.com/jmacd/xdelta
 * ObjToAn8 - https://github.com/carnivoroussociety/N64-Tools/tree/master/objtoan8
