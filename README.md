@@ -29,7 +29,7 @@ Feedback can be [posted in the shootersforever thread](http://www.shootersforeve
 The GoldenEye Setup Editor comes with `ABSOLUTELY NO WARRANTY`.
 This is free software, and you are welcome to redistribute it under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license.
 
-FFmpeg/LAME/mpg123/SoX/Gzip/Xdelta are covered under __their own software licenses__ - check below for more details.
+FFmpeg/LAME/mpg123/SoX/libdeflate/Xdelta are covered under __their own software licenses__ - check below for more details.
 
 ## Included Software
 * FFmpeg - https://ffmpeg.org/
