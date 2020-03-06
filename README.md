@@ -6,6 +6,7 @@ Feedback can be [posted in the shootersforever thread](http://www.shootersforeve
 ## Downloads
 | Version 4 (Recommended) | Download |
 | --------------------------- | ----------- |
+| 4.3 | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.3/gesetupeditorinstaller4.2.exe)|
 | 4.2 | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.2/gesetupeditorinstaller4.2.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.2/gesetupeditor4.2.7z) |
 | 4.1 | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.1/gesetupeditorinstaller4.1.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.1/gesetupeditor4.1.7z) |
 | 4.0 - Last x86 Build | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.0/gesetupeditorinstaller4.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.0/gesetupeditor4.7z) |
