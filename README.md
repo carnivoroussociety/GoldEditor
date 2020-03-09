@@ -1,13 +1,11 @@
 # GoldenEye Setup Editor
-Carnivorous' fork of the GoldenEye Setup Editor - originally created by SubDrag, Wreck And Zoinkity.  
-
-Feedback can be [posted in the shootersforever thread](http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=4284)
+Originally created by SubDrag, Wreck And Zoinkity. Feedback can be [posted in the shootersforever thread](http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=4284)
 
 ## Downloads
 | Version 4 (Recommended) | Download |
 | --------------------------- | ----------- |
 | 4.3 | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.3/gesetupeditorinstaller4.3.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.3/gesetupeditor4.3.0.7z) |
-| 4.2 | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.2/gesetupeditorinstaller4.2.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.2/gesetupeditor4.2.7z) |
+| 4.2 - Carn's Last Build | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.2/gesetupeditorinstaller4.2.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.2/gesetupeditor4.2.7z) |
 | 4.1 | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.1/gesetupeditorinstaller4.1.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.1/gesetupeditor4.1.7z) |
 | 4.0 - Last x86 Build | [Installer](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.0/gesetupeditorinstaller4.exe) / [Zip Archive](https://github.com/carnivoroussociety/GoldEditor/releases/download/4.0/gesetupeditor4.7z) |
 
