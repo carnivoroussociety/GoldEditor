@@ -37,4 +37,4 @@ FFmpeg/LAME/mpg123/SoX/libdeflate/Xdelta are covered under __their own software 
 * SoX - http://sox.sourceforge.net/
 * libdeflate - https://github.com/ebiggers/libdeflate
 * Xdelta - https://github.com/jmacd/xdelta
-* ObjToAn8 - https://github.com/carnivoroussociety/N64-Tools/tree/master/objtoan8
+* ObjToAn8 - https://github.com/jombo23/N64-Tools/tree/master/objtoan8
