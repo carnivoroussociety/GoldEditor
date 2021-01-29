@@ -21,7 +21,7 @@ Originally created by SubDrag, Wreck And Zoinkity. Feedback can be [posted in th
 ## Requirements
 * Microsoft Visual C++ 2019 Redistributable - [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 * Microsoft Visual C++ 2013 Redistributable - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=40784)
-* DirectX 9.0c Redistributable June 2010 - [Download](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+* DirectX 9.0c Redistributable June 2010 - [Download](https://web.archive.org/web/20201216110836/https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe)
 * Autodesk FBX SDK 2020.0.1 VS2013 (optional) - [Download](https://web.archive.org/web/20200101042427/https://damassets.autodesk.net/content/dam/autodesk/www/adn/fbx/2020-0-1/fbx202001_fbxsdk_vs2013_win.exe)
 
 ## Warranty
